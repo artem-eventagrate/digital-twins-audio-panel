@@ -1,0 +1,10 @@
+Requirements: node + npm
+
+How to run:
+1) Open project directory in command line or terminal
+2) Use "npm install" command
+3) Run project with "npm run dev"
+4) You will see in console some link, like "http://127.0.0.1:5173". Click on it.
+5) On opened page click join button and setup microphone in your browser. 
+6) After the steps below audio will be sended to metaverse mainStage. Client will be connected automatically.
+7) To disconnect just click "leave"
