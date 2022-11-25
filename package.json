@@ -1,0 +1,17 @@
+{
+  "name": "digital-twins-audio-panel\n",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^3.1.0"
+  },
+  "dependencies": {
+    "agora-rtc-sdk-ng": "^4.14.0"
+  }
+}
